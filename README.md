@@ -1,7 +1,7 @@
 ## Hi there 👋
 
 Welcome to my page!
-I'm Andrey, Scala Backend developer from Saint Petersburg, Russia.
+I'm Andrey, Kotlin/Scala Backend developer from Saint Petersburg, Russia.
 
 I am currently working at Tinkoff as a Middle Scala Developer for 4+ years. I am also a 2nd year Master's student at ITMO University, St. Petersburg on the international educational programme ‘Programming and Info-communication Technologies’
 
