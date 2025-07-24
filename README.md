@@ -3,7 +3,7 @@
 Welcome to my page!
 I'm Andrey, Kotlin/Java Backend developer from Saint Petersburg, Russia.
 
-I am currently working at Tinkoff as a Staff Kotlin/Java Developer with 4+ years of experience. I hold a Master's degree from ITMO University, St. Petersburg, where I studied on the international educational programme ‘Programming and Info-communication Technologies’.
+I am currently working at Tinkoff as a Staff Kotlin/Java Developer with 5+ years of experience. I hold a Master's degree from ITMO University, St. Petersburg, where I studied on the international educational programme ‘Programming and Info-communication Technologies’.
 
 Things I code with:
 <p> 
